@@ -1,8 +1,10 @@
 # COVID-19-Analysis
+![Screenshot 2023-04-21 154036](https://user-images.githubusercontent.com/115046602/233679926-ec78e018-659e-4164-8c5f-552eb4fb7e16.png)
 ![Screenshot 2023-04-21 154122](https://user-images.githubusercontent.com/115046602/233679457-00668e6d-ab8b-4499-98e9-8057520f5885.png)
 ![Screenshot 2023-04-21 155410](https://user-images.githubusercontent.com/115046602/233679504-eb1bbac4-3eb2-4ccc-bae1-ff59761a3cff.png)
 
 # Introduction: 
+Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID‑19 transmits when infectious particles are breathed in or come into contact with the eyes, nose, or mouth. The risk is highest when people are in close proximity, but small airborne particles containing the virus can remain suspended in the air and travel over longer distances, particularly indoors. The disease quickly spread worldwide, resulting in the COVID-19 pandemic.
 
 # Project Name: COVID-19 GLOBAL ANALYSIS
 COVID-19 GLOBAL ANALYSIS AND DASHBOARD
