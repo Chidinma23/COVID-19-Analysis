@@ -38,6 +38,8 @@ After uploading data to Excel, the columns were checked and changed to its right
 12. Sum of Confrimed cases by year and month
 13. Sum of Recovered Cases
 
+Interact with my Dashboard and Report here https://docs.google.com/spreadsheets/d/1HKdAD4tG2f1bKvy0Bc84O0dmbTWI5j9S/edit?usp=share_link&ouid=100058893201116170475&rtpof=true&sd=true 
+
 # Conclusion
 The folllowing insights were made:
 1. United States have the highest prevalence (confirmed cases) of Covid19
