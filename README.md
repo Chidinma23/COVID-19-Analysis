@@ -18,3 +18,4 @@ Rate of Death to Confirmed cases
 Sum of Confirmed Cases
 Sum of Death cases
 Confirmed cases by year
+
