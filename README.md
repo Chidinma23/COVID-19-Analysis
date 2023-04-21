@@ -44,7 +44,3 @@ The folllowing insights were made:
 2. North Korea have the lowest prevalence (confirmed cases) of Covid19
 3. Rate of Death to confirmed cases is 1.50%
 The sum of recovered cases  23,227,207,571 is more than the deaths of  3,723,034,613 from the month of January 2020 to June 2022. 
-
-
-
-
